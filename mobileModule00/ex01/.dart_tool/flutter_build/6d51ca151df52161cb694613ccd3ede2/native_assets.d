@@ -1,0 +1,1 @@
+ /Users/mlecherb/Desktop/Ecole/42-Mobile/mobileModule00/ex01/.dart_tool/flutter_build/6d51ca151df52161cb694613ccd3ede2/native_assets.yaml: 
